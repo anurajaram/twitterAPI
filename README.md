@@ -6,7 +6,7 @@ Twitter apps and programs using the API
 <h2>Shiny app - shiny_senti </h2>
 Interactive Shiny application to display sentiment analysis for various phrases and search terms.<br>
 Application accepts user a search term as input and displays graphical sentiment analysis.<br>
-Live App Link - https://anupamaprv.shinyapps.io/shiny_senti/
+Live App Link - https://anupamaprv.shinyapps.io/shiny_senti/
 <br>
 The program processes the search term and extracts maximum 20 tweets transmitted between 1-Jan-2013 and 8-Aug-2016, using an authorized Twitter API connection.<br>
 A bar graph displays the overall "sentimental" value for the associated tweet-set, for emotions ranging from anger, fear, 
